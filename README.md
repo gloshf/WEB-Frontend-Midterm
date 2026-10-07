@@ -46,6 +46,9 @@ MovieVerse is a multi-page responsive movie website. It provides movie informati
 - Google Fonts
 - GitHub Pages
 
+### Team Contribution
+The project was developed collaboratively by all team members. All members contributed to writing and improving the code. The final project files were committed and pushed to the GitHub repository by one team member on behalf of the group.
+
 ## Individual contribution
 - Student 1: Home page, navigation and general layout
 - Student 2: Movies and Ratings pages
